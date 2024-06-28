@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "439939173453",
-    "project_id": "flutter-auth-c0088",
-    "storage_bucket": "flutter-auth-c0088.appspot.com"
+    "project_number": "545496714923",
+    "project_id": "final-auth-f163c",
+    "storage_bucket": "final-auth-f163c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:439939173453:android:686b4154d469cf1d9fe004",
+        "mobilesdk_app_id": "1:545496714923:android:d9c089bdeb76f21c2231ee",
         "android_client_info": {
           "package_name": "com.example.auth_mobile"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCIAotYzMZHGQmY9k7IEwbuC2Xh-G5F0Tw"
+          "current_key": "AIzaSyBt2aqiEBvFncXJ8V4rc5lY3lOyI7Y-5z8"
         }
       ],
       "services": {
